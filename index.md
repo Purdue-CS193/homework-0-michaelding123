@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages 1
+## Michael Ding's First CS193 Homework
+
+- The class is comparatively low-stress
+- There aren't midterms or final exams
+- It doesn't add too much work on top of the other classes.
+- It teaches things that are useful for the industry such as how git works.
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
